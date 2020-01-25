@@ -31,4 +31,11 @@ npm --version
 ### For 64 bit
   [Click Here](https://nodejs.org/dist/v12.14.1/node-v12.14.1-x64.msi)
   
-  
+ 
+### Install MQTT
+<pre>
+npm init -y
+</pre>
+<pre>
+npm i mqtt
+</pre>
