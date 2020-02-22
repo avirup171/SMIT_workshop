@@ -1,0 +1,8 @@
+{
+    "temperature":"20",
+    "humidity":"40",
+    "sensor_type":{
+        "manufacturer":"lab1",
+        "country":"china"
+    }    
+}
