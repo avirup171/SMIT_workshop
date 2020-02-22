@@ -3,7 +3,7 @@
 ## Welcome to all
 
 Hello developers. This is the repo of the code files for the workshop conducted at SMIT, Sikkim. Thanks to all for attending the workshop. It was a great experience for us. 
-For any problem, drop a mail to [Avirup Basu](mailto:avirup.basu@live.com?subject=[GitHub SMIT WORKSHOP]
+For any problem, drop a mail to [Avirup Basu](mailto:avirup.basu@live.com?subject=[GitHub%20SMIT%20WORKSHOP]
 
 ### Structure of the repo
 
